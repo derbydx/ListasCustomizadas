@@ -1,0 +1,13 @@
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ListCustLab.csprojAssemblyReference.cache
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ListCustLab.AssemblyInfoInputs.cache
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ListCustLab.AssemblyInfo.cs
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/bin/Debug/netstandard2.0/ListCustLab.deps.json
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/bin/Debug/netstandard2.0/ListCustLab.dll
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/bin/Debug/netstandard2.0/ref/ListCustLab.dll
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/bin/Debug/netstandard2.0/ListCustLab.pdb
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ListCustLab.dll
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ref/ListCustLab.dll
+/Users/derbymartinez/Projects/ListCustLab/ListCustLab/obj/Debug/netstandard2.0/ListCustLab.pdb
